@@ -1,0 +1,184 @@
+body {
+    background-image: url("Newfundo.PNG");
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h1 {
+    font-family: cursive;
+     color:darkred;
+    margin-top: 10 px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    font-family: cursive;
+    color: #145f0c;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h3 {
+    font-family: cursive;
+    color: #145f0c;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #3b025c;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+hr {
+    border-color: brown;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 40%;
+    height: 0px;
+}
+
+ul {
+    line-height: 1.5;
+}
+
+ol {
+    line-height: 1.5;
+    line-clamp: 2px;
+}
+
+.cabecario {
+    background-image: url("folhascab.PNG");
+    display: flex;
+    font-family: cursive;
+    justify-content: center;
+    height: 375px;
+    margin-top: 0px;
+}
+
+.formacao {
+    height: 685px;
+    width: 80%;
+    margin-bottom: 50px;
+}
+
+.expprof {
+    height: 585px;
+    margin-top: 0px;
+    width: 85%;
+}
+
+.achievcorp {
+    height: 490px;
+}
+
+.achievuniv {
+    height: 315px;
+    width: 85%;
+}
+
+.achievcons {
+    height: 465px;
+    width: 85%;
+}
+
+.cvlinks {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.contact {
+    background-image: url("folhasinv.PNG");
+    display: flex;
+    height: 750px;
+}
+
+.foto {
+    border-color: grey;
+    border-style: solid;
+    width: 180px;
+    height: 216px;
+}
+
+.foto1 {
+    border-color: grey;
+    border-style: solid;
+    width: 180px;
+    height: 150px;
+}
+
+.roxo {
+    font-size: 0.9em;
+    font-family: cursive;
+    color: #3b025c;
+}
+
+.verde {font-size: 110%;
+    font-family: cursive;
+    font-style: italic;
+    color: #145f0c;
+}
+
+.verm {
+    font-size: 110%;
+    font-family: cursive;
+    color: darkred;
+}
+
+.lilas {font-size: 110%;
+    font-family: cursive;
+    color: #480c5f;
+}
+.formul {
+       text-align: center;
+}
+
+.button1 {
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 10px;
+    line-height: 10px;
+    color: black;
+    font-family: Brush Script MT;
+    width: 375px;
+    font-size: 30px;
+    font-weight: 200;
+    padding: 23px;
+    -webkit-box-shadow: 1px 1px 20px 0 #02930B;
+    -moz-box-shadow: 1px 1px 20px 0 #02930B;
+    box-shadow: 1px 1px 20px 0 #02930B;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .button1:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
